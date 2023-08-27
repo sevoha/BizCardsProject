@@ -298,7 +298,7 @@ const Register: FunctionComponent<RegisterProps> = ({ setUserInfo }) => {
         </button>
       </form>
       <p>
-        Already have an account? <Link to="/login">Login</Link>
+        Already have an account? <Link to="/">Login</Link>
       </p>
     </div>
   );

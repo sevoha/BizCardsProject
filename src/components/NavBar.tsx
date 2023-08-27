@@ -16,13 +16,13 @@ const NavBar: FunctionComponent<NavBarProps> = ({ userInfo, setUserInfo, darkMod
   const handleLogout = () => {
     sessionStorage.removeItem("userInfo");
     setUserInfo({ email: false, role: false });
-    navigate("/Login");
+    navigate("/");
   };
   
   return (
     <nav className={`navbar navbar-expand-lg ${darkMode ? 'navbar-dark bg-dark' : 'navbar-light bg-light'}`}>
       <div className="container-fluid">
-        <NavLink className="navbar-brand" to="/Home">
+        <NavLink className="navbar-brand" to="#">
         <img src="/image/logo.png" alt="logo" style={{width:40,height:40}} /> BizCards
         </NavLink>
         <button

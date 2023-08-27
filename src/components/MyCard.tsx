@@ -33,7 +33,7 @@ const MyCard: FunctionComponent<MyCardProps> = ({ userInfo, cards }) => {
   return (
     <>
      <div className="container  col-md-3 mt-5  vw-100 ">
-    <h1>your cards</h1>
+    <h1>Your Cards</h1>
       {cardsList.length ? (
         <div className="container-fluid mb-2  ">
           <div className="row d-flex justify-content-center">
