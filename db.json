@@ -1,0 +1,150 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Seva ",
+      "lastName": "Koval",
+      "password": "12345678",
+      "email": "seva@gmail.com",
+      "phone": "0527430907",
+      "image": "/image/myAvatar.png",
+      "imageAlt?": "avatar pic",
+      "state": "Zafon",
+      "city": "Migdal haEmek",
+      "housenumber": 123,
+      "country": "Israel",
+      "street": "Main ",
+      "zip": 12345,
+      "role": "admin"
+    },
+    {
+      "name": "seva1",
+      "lastName": "biz",
+      "password": "12345678",
+      "email": "seva1@gmail.com",
+      "role": "business",
+      "phone": "0425896321",
+      "city": "Haifa ",
+      "country": "Israel",
+      "street": "Bialik",
+      "zip": 12212,
+      "image": "http://www.hotavatars.com/wp-content/uploads/2019/01/I80W1Q0.png",
+      "state": "isreal",
+      "housenumber": 55,
+      "id": 2
+    },
+    {
+      "name": "test1",
+      "lastName": "regular",
+      "password": "12345678",
+      "email": "test1@gmail.com",
+      "role": "regular",
+      "phone": "0508963214",
+      "image": "https://i.pinimg.com/originals/39/41/49/394149e6e8728c95682c55877ea3ed23.png",
+      "city": "Karmiel ",
+      "housenumber": 55,
+      "country": "Israel",
+      "street": "Herzel",
+      "zip": 12212,
+      "state": "isreal",
+      "id": 3
+    }
+  ],
+  "cards": [
+    {
+      "owner": "seva@gmail.com",
+      "title": "Sea Tower Tel Aviv",
+      "subtitle": "Hotel",
+      "description": "A magnificent beacon that graces the Mediterranean shoreline, the Sea Tower Tel Aviv is an urban delight perfectly situated at the heart of the non-stop city's business, tourism, and commercial districts. There's simply no better option for business travelers seeking to relax after a busy workday, in a friendly, welcoming atmosphere.",
+      "phone": "0547896323",
+      "email": "hotel@gmail.com",
+      "web": "https://www.isrotel.com/isrotel-hotels/tel-aviv/isrotel-tower/",
+      "image": "/image/isrotel.jpg",
+      "state": "Merkaz",
+      "country": "Israel",
+      "city": "Tel-Aviv",
+      "street": "zait",
+      "housenumber": 20,
+      "zip": 12212,
+      "id": 1
+    },
+    {
+      "owner": "seva@gmail.com",
+      "title": "Josef flowers boutique",
+      "subtitle": "Flowers",
+      "description": "Flower boutique for people who love! Explosive creativity, true passion for flowers and design, service always with a smile, deliveries to the entire region. With us you will enjoy a crazy selection of flower bouquets, arrangements, bridal bouquets, car decorations, balloons, flowers for the mother, event design, deliveries and all in one phone call!",
+      "phone": "025600500",
+      "email": "Joseph@gmail.com",
+      "web": "https://josefflowers.b144websites.co.il/",
+      "image": "/image/spring-flower-1.jpg",
+      "state": "Zafon",
+      "country": "Israel",
+      "city": "Haifa",
+      "street": "zait",
+      "housenumber": 12,
+      "zip": 2301478,
+      "id": 2
+    },
+    {
+      "owner": "seva@gmail.com",
+      "title": "BellboyTlv",
+      "subtitle": "bar",
+      "description": "The cocktail is a modern invention and is generally used on fishing and other sporting parties, although some insist that it is good in the morning as a tonic.” Jerry Thomas - How To Mix Drinks 1862",
+      "phone": "025600500",
+      "email": "bellboytlv@gmail.com",
+      "web": "https://bellboytlv.com/",
+      "image": "/image/butler+2.jpg",
+      "state": "Merkaz",
+      "country": "Israel",
+      "city": "Tel Aviv",
+      "street": "zait",
+      "housenumber": 0,
+      "zip": 2301478,
+      "id": 3
+    },
+    {
+      "owner": "seva@gmail.com",
+      "title": "Gordon-pool",
+      "subtitle": "pool",
+      "description": "The famous Gordon Pool was established in 1956, and soon became a hub of social activity and one of the most renowned symbols of early Tel Aviv. Since its foundation, the Gordon Pool has been a municipal center belonging to the Tel Aviv-Jaffa Municipality’s Culture and Sports Division.",
+      "phone": "037623300",
+      "email": "seva@gmail.com",
+      "web": "https://www.gordon-pool.co.il/en/",
+      "image": "https://i.pinimg.com/originals/bc/f3/93/bcf393387ccb4ed63054620321029fe1.jpg",
+      "state": "Merkaz",
+      "country": "Israel",
+      "city": " Tel Aviv",
+      "street": "Eliezer Peri Street ",
+      "housenumber": 47,
+      "zip": 15121318,
+      "id": 4
+    }
+  ],
+  "favs": [
+    {
+      "userId": 1,
+      "cards": [
+        {
+          "owner": "seva@gmail.com",
+          "title": "Sea Tower Tel Aviv",
+          "subtitle": "Hotel",
+          "description": "A magnificent beacon that graces the Mediterranean shoreline, the Sea Tower Tel Aviv is an urban delight perfectly situated at the heart of the non-stop city's business, tourism, and commercial districts. There's simply no better option for business travelers seeking to relax after a busy workday, in a friendly, welcoming atmosphere.",
+          "phone": "0547896323",
+          "email": "hotel@gmail.com",
+          "web": "https://www.isrotel.com/isrotel-hotels/tel-aviv/isrotel-tower/",
+          "image": "/image/isrotel.jpg",
+          "state": "Merkaz",
+          "country": "Israel",
+          "city": "Tel-Aviv",
+          "street": "zait",
+          "housenumber": 20,
+          "zip": 12212,
+          "sutitle": "Hote",
+          "id": 1
+        }
+      ],
+      "active": true,
+      "id": 1
+    }
+  ]
+}
