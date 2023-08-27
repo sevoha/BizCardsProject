@@ -145,6 +145,30 @@
       ],
       "active": true,
       "id": 1
+    },
+    {
+      "userId": 2,
+      "cards": [
+        {
+          "owner": "seva@gmail.com",
+          "title": "Sea Tower Tel Aviv",
+          "subtitle": "Hotel",
+          "description": "A magnificent beacon that graces the Mediterranean shoreline, the Sea Tower Tel Aviv is an urban delight perfectly situated at the heart of the non-stop city's business, tourism, and commercial districts. There's simply no better option for business travelers seeking to relax after a busy workday, in a friendly, welcoming atmosphere.",
+          "phone": "0547896323",
+          "email": "hotel@gmail.com",
+          "web": "https://www.isrotel.com/isrotel-hotels/tel-aviv/isrotel-tower/",
+          "image": "/image/isrotel.jpg",
+          "state": "Merkaz",
+          "country": "Israel",
+          "city": "Tel-Aviv",
+          "street": "zait",
+          "housenumber": 20,
+          "zip": 12212,
+          "id": 1
+        }
+      ],
+      "active": true,
+      "id": 2
     }
   ]
 }
